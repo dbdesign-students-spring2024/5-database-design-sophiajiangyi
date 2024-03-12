@@ -103,4 +103,4 @@ Composite primary keys: `student_id` and `assignment_id`, which are both foreign
 | ...     | ...       | ...      |
 
 ## ER Diagram
-![Image](./images/ER 5-database.drawio.png)
+![ER](./images/ER5-database.drawio.png)
